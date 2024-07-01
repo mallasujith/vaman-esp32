@@ -1,3 +1,4 @@
+//pip3 install pybluez command before running this code
 import bluetooth
 
 def find_esp32():
