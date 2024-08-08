@@ -1,0 +1,2 @@
+This Application after getting connected to TP-LINK , provides the IP Address , Take the URL and generate QR , using this  link generate a QR  (https://www.the-qrcode-generator.com/) and if the user also connects to TP-LINK , the user opens the google scanner and scans the generated qrcode , the output is in form of biometric attendance , the user and admin can see , who are the clients attended in particular meeting.
+
